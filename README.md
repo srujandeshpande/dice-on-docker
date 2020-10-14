@@ -1,2 +1,2 @@
-# dice-on-docker
-Get a flexible dice on demand!
+# Dice ong00lj0yttttttt
+00010 flexible dDFS on demand!
