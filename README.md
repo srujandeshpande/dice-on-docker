@@ -1,2 +1,2 @@
-# Dice ong00lj0yttttttt
-00010 flexible dDFS on demand!
+# Dice On Docker!
+Get Dice on Demand now running on Docker!
